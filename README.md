@@ -1,5 +1,6 @@
 - 👋 Hi, I’m __The Tiny Coder__
 - 👀 I’m interested in system development
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ Looking forward to collaborating on open source projects
 - 📫 Reach me via [email](mailto:charawey.yw@gmail.com)
+- ⚡ I hope you find what you're looking for
