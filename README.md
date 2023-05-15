@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning C
 - 🤝 Looking forward to collaborating on open source projects
 - 📫 Reach me via [email](mailto:charawey.yw@gmail.com)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@charawe.yw) View my articles on current projects
 - ⚡ I hope you find what you're looking for
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@charawe.yw) View my articles on current projects
 
 ##
 ---
