@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a junior developer
 - 👀 I’m interested in system development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Go
 - 🤝 Looking forward to collaborate on open source projects
 - 📫 Reach me via [email](mailto:charawey.yw@gmail.com)
 - ⚡ I hope you find what you're looking for
